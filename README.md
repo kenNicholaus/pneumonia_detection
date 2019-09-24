@@ -1,4 +1,4 @@
-# pneumonia_detection
+# Pneumonia Detection
 ### pneumonia_detection_using_MobileNet_Transfer_Learning
   ## 100% validation accuracy
   ![Predicted Results](prediction.jpg)
